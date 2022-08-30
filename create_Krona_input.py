@@ -1,4 +1,6 @@
 
+
+
 def read_PathSeq_corrected(input_file,output_file):
     list_to_store_int_tax=[]
     pathseq=open(input_file,'r')
